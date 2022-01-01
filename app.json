@@ -1,6 +1,6 @@
 {
-    "name": "LegendSpam",
-    "description": "Spamming Bot Made By LegendBoy and Manisha",
+    "name": "MONEY HEIST SPAM",
+    "description": "Spamming Bot Made By Professor Agora",
     "logo": "https://te.legra.ph/file/51153ee3e3b62182782ba.jpg",
     "keywords": [
         "telegram",
@@ -9,9 +9,9 @@
         "legendboy",
         "Botspam"
     ],
-    "repository": "https://github.com/LEGEND-OS/BOTTOKENSPAM",
-    "website": "https://t.me/MISS_SENORITA1",
-    "success_url": "https://t.me/The_LegendBoy",
+    "repository": "https://github.com/Agora-OS/BOTTOKENSPAM",
+    "website": "https://t.me/agora_professor",
+    "success_url": "https://t.me/Agoraswamy_Professor",
     "env": {
         "API_HASH": {
             "description": "Write API_HASH from my.telegram.org",
@@ -72,12 +72,12 @@
         },
         "SUDO_USERS": {
             "description": "OWNER_ID",
-            "value": ""
+            "value": 5080735305 5007470874"
             
         },
         "YOUR_NAME": {
             "description": "NAME",
-            "value": "LegendBoy"
+            "value": "Professor"
             
         },
         "HEROKU_API_KEY": {
